@@ -1,0 +1,40 @@
+
+#head {
+    display: flex;
+    justify-content: flex-start;
+    background-color: yellow;
+    height:25%;
+    width: 100%;
+    border:black 3px solid;
+}
+#quote{
+    margin-left: 80px;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+#body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    height: 75%;
+    width: 100%;
+    border:black 3px solid;
+} 
+#time{
+    list-style: none;
+}
+img {
+    border:black 3px solid;
+    width: 150px;
+    height: 200px;
+    margin:10px;
+}
+div{
+    display:flex;
+}
+h2{
+    font-family: 'Quattrocento Sans', sans-serif;
+}

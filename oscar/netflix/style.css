@@ -1,0 +1,47 @@
+#navbar{
+    display:flex;
+    justify-content: flex-start;
+    list-style: none;
+    
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+.item{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#nav{
+    background-color: black;
+    color:red;
+    padding: 10px;
+
+}
+body{
+    background-color:rgb(47, 47, 48);
+}
+img{
+    height:300px;
+    width:200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#firstRow{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+#rowTwo{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+#logo{
+    font-family: 'Crushed', cursive;
+    font-size: 50px
+}
+h1{
+    margin-left: 50;
+    background-color: black;
+    color:white;   
+}
